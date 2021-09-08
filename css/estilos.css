@@ -214,7 +214,7 @@ h1{
     width: 80px;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-580%) translateY(10%);
+    transform: translateX(-450%) translateY(-10%);
 }
 }
 @media only screen and (min-width:576px) and (max-width:992px){
