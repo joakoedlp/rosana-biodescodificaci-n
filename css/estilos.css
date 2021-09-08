@@ -211,10 +211,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 80px;
+    width: 12%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-450%) translateY(-10%);
+    transform: translateX(-800%) translateY(30%);
 }
 }
 @media only screen and (min-width:576px) and (max-width:992px){
@@ -249,10 +249,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 100px;
+    width: 12%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-600%) translateY(10%);
+    transform: translateX(-800%) translateY(30%);
 }
 }
 @media only screen and (min-width:992px) and (max-width: 1200px){
@@ -287,10 +287,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 150px;
+    width: 12%;
     position: absolute;
     margin-top: 0px;
-    transform: translateX(-700%) translateY(10%);
+    transform: translateX(-800%) translateY(30%);
 }
 
 }
