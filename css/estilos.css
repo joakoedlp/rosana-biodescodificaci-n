@@ -197,7 +197,7 @@ h1{
     font-family: "Oswald";
     cursor: pointer;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
     opacity: 100%;    
 }
 .top_nav ul li a{
@@ -211,10 +211,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 12%;
+    width: 15%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-800%) translateY(30%);
+    transform: translateX(-650%) translateY(-10%);
 }
 }
 @media only screen and (min-width:576px) and (max-width:992px){
@@ -249,10 +249,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 12%;
+    width: 15%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-800%) translateY(30%);
+    transform: translateX(-620%) translateY(20%);
 }
 }
 @media only screen and (min-width:992px) and (max-width: 1200px){
