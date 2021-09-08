@@ -44,7 +44,7 @@ body{
     font-family: "Oswald";
     cursor: pointer;
     margin-right: 20px;
-    margin-top: 18px;
+    margin-top: 30px;
     opacity: 100%;    
 }
 .top_nav ul li a{
@@ -63,10 +63,10 @@ body{
 	font-family: bebas neue;
 }
 .logo_img{
-	width: 100px;
+	width: 150px;
 	position: absolute;
-	margin-top: 10px;
-	transform: translateX(-1340%) translateY(-20%);
+	margin-top: 30px;
+	transform: translateX(-900%) translateY(-20%);
 }
 .contenedor{
   position: absolute;
@@ -193,7 +193,7 @@ h1{
     display: inline-block;
     color: white;
     padding: 5px 10px;
-    font-size: 10px;
+    font-size: 15px;
     font-family: "Oswald";
     cursor: pointer;
     margin-right: 0px;
@@ -211,10 +211,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 8%;
+    width: 12%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-1200%) translateY(10%);
+    transform: translateX(-800%) translateY(10%);
 }
 }
 @media only screen and (min-width:576px) and (max-width:992px){
@@ -249,10 +249,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 8%;
+    width: 14%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-1200%) translateY(10%);
+    transform: translateX(-700%) translateY(10%);
 }
 }
 @media only screen and (min-width:992px) and (max-width: 1200px){
@@ -287,10 +287,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 8%;
+    width: 16%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-1200%) translateY(10%);
+    transform: translateX(-600%) translateY(10%);
 }
 
 }

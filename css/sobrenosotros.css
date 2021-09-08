@@ -83,7 +83,8 @@ header::before {
   font-size: 20px;
   font-family: "Oswald";
   cursor: pointer;
-  margin-right: 20px; }
+  margin-right: 20px;
+  margin-top: 10px; }
 
 .top_nav ul li a {
   text-decoration: none;
@@ -101,10 +102,10 @@ header::before {
   font-family: bebas neue; }
 
 .logo_img {
-  width: 100px;
+  width: 150px;
   position: absolute;
-  margin-top: 10px;
-  transform: translateX(-1340%) translateY(-20%); }
+  margin-top: 30px;
+  transform: translateX(-900%) translateY(-20%); }
 
 .foot {
   background-color: rgba(0, 0, 0, 0.4);
