@@ -249,10 +249,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 15%;
+    width: 18%;
     position: absolute;
     margin-top: 10px;
-    transform: translateX(-620%) translateY(20%);
+    transform: translateX(-550%) translateY(-10%);
 }
 }
 @media only screen and (min-width:992px) and (max-width: 1200px){
@@ -287,10 +287,10 @@ h1{
     color: white; 
 }
 .logo_img{
-    width: 12%;
+    width: 18%;
     position: absolute;
     margin-top: 0px;
-    transform: translateX(-800%) translateY(30%);
+    transform: translateX(-550%) translateY(-10%);
 }
 
 }
