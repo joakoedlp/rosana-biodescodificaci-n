@@ -63,7 +63,7 @@ body{
 	font-family: bebas neue;
 }
 .logo_img{
-	width: 150px;
+	width: 200px;
 	position: absolute;
 	margin-top: 30px;
 	transform: translateX(-900%) translateY(-20%);
