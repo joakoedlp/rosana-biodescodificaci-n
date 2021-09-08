@@ -286,7 +286,7 @@ font-family: Oswald; }
 }
 .foot {
   background-color: rgba(0, 0, 0, 0.4);
-  margin-top: 75%;
+  margin-top: 50%;
   width: 100%;
   height: 6.8%;
   padding-top: 5px;
@@ -348,7 +348,7 @@ font-family: Oswald; }
 }
 .foot {
   background-color: rgba(0, 0, 0, 0.4);
-  margin-top: 35%;
+  margin-top: 32%;
   width: 100%;
   height: 6.8%;
   padding-top: 5px;
@@ -386,9 +386,9 @@ font-family: Oswald; }
     transform: translateX(-800%) translateY(30%);
 }
 .tamaño{
-  font-size: 40px;
+  font-size: 35px;
   font-family: Oswald;
-  margin-left: 60px;
+  margin-left: 50px;
   margin-right: 0px;
   color: white;
 }
@@ -396,6 +396,7 @@ font-family: Oswald; }
   width: 70%;
   height: 70%;
   margin-top: 30px;
+  margin-left: 10px;
 }
 .container {
   z-index: 2;
